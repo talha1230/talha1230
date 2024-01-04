@@ -1,8 +1,8 @@
 # Talha Muhammad
 
-[![GitHub Profile](https://github.com/talha1230.png?size=80)](https://github.com/talha1230)
-[![LinkedIn Profile](https://media.licdn.com/dms/image/D5635AQEyEAlFxktH-Q/profile-framedphoto-shrink_200_200/0/1703267959571?e=1704985200&v=beta&t=e1q2eRG6Edv5tRsim122J3Pz2tUKNzgX2jjhhcYJh3U)](https://linkedin.com/in/talha1230)
-[![Instagram Profile](https://instagram.fkul5-3.fna.fbcdn.net/v/t51.2885-19/416093332_232973356507296_6850500289377389143_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fkul5-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=JeYDClOQg1QAX_wO3bF&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCDAz9UR_3p377aFgQG79LuMIqE56GQrpjPtQCGZHbmmg&oe=659C4DDF&_nc_sid=ee9879)](https://www.instagram.com/talhakhan.exe/)
+[![GitHub Icon](https://image-url-for-github-icon.png)](https://github.com/talha1230)
+[![LinkedIn Icon](https://image-url-for-linkedin-icon.png)](https://linkedin.com/in/talha1230)
+[![Instagram Icon](https://image-url-for-instagram-icon.png)](https://www.instagram.com/talhakhan.exe/)
 
 ---
 
