@@ -1,8 +1,8 @@
 # Talha Muhammad
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" width="20" height="20">](https://github.com/talha1230)
-[<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="20" height="20">](https://linkedin.com/in/talha1230)
-[<img src="https://i0.wp.com/aimanpsikologi.com/wp-content/uploads/2018/01/instagram-colourful-icon.png?ssl=1" width="20" height="20">](https://www.instagram.com/talhakhan.exe/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" width="40" height="40" style="margin-right: 10px;">](https://github.com/talha1230)
+[<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" style="margin-right: 10px;">](https://linkedin.com/in/talha1230)
+[<img src="https://i0.wp.com/aimanpsikologi.com/wp-content/uploads/2018/01/instagram-colourful-icon.png?ssl=1" width="40" height="40">](https://www.instagram.com/talhakhan.exe/)
 
 ---
 
