@@ -1,8 +1,8 @@
 # Talha Muhammad
 
-[![GitHub Icon](https://image-url-for-github-icon.png)](https://github.com/talha1230)
-[![LinkedIn Icon](https://image-url-for-linkedin-icon.png)](https://linkedin.com/in/talha1230)
-[![Instagram Icon](https://image-url-for-instagram-icon.png)](https://www.instagram.com/talhakhan.exe/)
+[![GitHub Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU)](https://github.com/talha1230)
+[![LinkedIn Icon](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://linkedin.com/in/talha1230)
+[![Instagram Icon](https://i0.wp.com/aimanpsikologi.com/wp-content/uploads/2018/01/instagram-colourful-icon.png?ssl=1)](https://www.instagram.com/talhakhan.exe/)
 
 ---
 
