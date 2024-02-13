@@ -6,7 +6,7 @@
 
 ---
 
-# Greetings, fellow learners! 👋 I'm Talha Muhammad, a dedicated student on a continuous learning journey, currently pursuing a degree in BS Software Engineering.
+### Greetings, fellow learners! 👋 I'm Talha Muhammad, a dedicated student on a continuous learning journey, currently pursuing a degree in BS Software Engineering.
 
 ---
 
