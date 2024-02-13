@@ -41,7 +41,7 @@ If you find my journey interesting, I'd love to connect with you!
 
 - Engage in [Wandering](#)
 - Dive into [Srounded by idots](#)
-- Top pick for movie night: [Your Favorite Movie] - Fight Club
+- Top pick for movie night:- Fight Club, Her(2012)
 
 ---
 
