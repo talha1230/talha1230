@@ -90,9 +90,10 @@ Version Control
   <img height="137em" src="https://github-profile-trophy.vercel.app/?username=talha1230&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
-<a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=talha1230&hide_border=true&theme=nord"" />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img height="295em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark"/>
 </a>
+
 
 </p>
 
