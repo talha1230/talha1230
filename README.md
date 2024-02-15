@@ -5,6 +5,9 @@
 # Hi there <img align="center" src="assets/hello.gif" width="35"> ,I'm Talha
 
 
+
+# Hi there <img align="center" src=" https://github.com/talha1230/talha1230/blob/main/assets/hello.gif" width="35"> ,I'm Talha
+
 - 🔭 I’m currently working on my [React_Native project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/talha1230/Little_Lemon.git)
 - ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/talha1230/Emacs-config)
 - ✉️ Best Medium to contact me is via [mail](mailto:b09230027@student.unimy.edu.my)
@@ -104,18 +107,16 @@ Version Control
 #### If you are looking 👀 to contribute to a project then check out the pinned repositories on my [GithHub profile](https://github.com/talha1230), I always make sure to leave some beginner friendly bugs (code, no-code, low-code) for new-commers to fix ( even [this very readme](https://github.com/talha1230/talha1230/issues) have got some ), issues marked as `good-first-issue` must be the one you should be looking for.
 
  ----
-<a href= mailto:b09230027@student.unimy.edu.my>
-<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href= "mailto:b09230027@student.unimy.edu.my">
+  <img src= "https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
-<a href= "https://discord.com/users/711927506445533205">
+
+<a href= "https://discord.com/users/botunknow">
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
- <a href = "https://twitter.com/talha1230/">                                                                                                 
- <img src = "https://img.shields.io/badge/twitter-149ef2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>                                                                                                 
-<a href= "https://stackoverflow.com/users/12030775/talha1230?tab=profile">
+ <a href = "https://instagram.com/talhakhan.exe/">                                                                                                 
+ <img src = "https://img.shields.io/badge/instagram-149ef2?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>                                                                                             
+<a href= "https://stackoverflow.com/users/22827056/talha">
 <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-<a href= "https://www.sololearn.com/profile/15170059">
-<img src= "https://img.shields.io/badge/Sololearn-149ef2?style=for-the-badge&logo=sololearn&logoColor=white"/>
 </a>
