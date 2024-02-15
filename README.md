@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/talha1230//assets/talha1230_banner.png" />
+<img src="https://github.com/talha1230/assets/talha1230_banner.png" />
 </p>
 
 ---
