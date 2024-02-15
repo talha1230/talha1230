@@ -109,11 +109,14 @@ Version Control
 </a>
 
 <a href= "https://discord.com/users/botunknow">
-<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
- <a href = "https://instagram.com/talhakhan.exe/">                                                                                                 
- <img src = "https://img.shields.io/badge/instagram-149ef2?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>                                                                                             
+
+<a href = "https://instagram.com/talhakhan.exe/">                                                                                                 
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>                                                                                             
+
 <a href= "https://stackoverflow.com/users/22827056/talha">
-<img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
+
