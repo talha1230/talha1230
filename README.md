@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/talha_banner.png" alt="Banner" style="max-width: 100%; height: auto; width: 50%; height: 500px;"/>
+  <img src="/assets/talha_banner.png" alt="Banner" style="height: auto; width: 552px; height: 263px;"/>
 </p>
 
 ---
