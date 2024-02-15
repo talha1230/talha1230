@@ -1,8 +1,9 @@
 <p align="center">
-<img src=["https://github.com/talha1230/assets/talha_banner.png](https://github.com/talha1230/talha1230/blob/main/assets/talha_banner.png)" />
+  <img src="https://github.com/talha1230/assets/talha_banner.png" alt="Banner"/>
 </p>
 
 ---
+
 
 # Hi there <img align="center" src="https://github.com/talha1230/talha1230/assets/hello.gif" width="35"> ,I'm Talha
 
