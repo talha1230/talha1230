@@ -77,7 +77,7 @@ Version Control
 
 ---
 
-<details><summary><strong>Click to see my Profile stats 📊</strong></summary>
+<details open><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <br />
 
 <p align="center">
