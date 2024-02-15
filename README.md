@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/talha1230/talha1230/blob/master/assets/talha1230_banner.png" />
+<img src="https://github.com/talha1230//assets/talha1230_banner.png" />
 </p>
 
 ---
 
-# Hi there <img align="center" src="https://github.com/talha1230/talha1230/blob/master/assets/hello.gif" width="35"> ,I'm Talha
+# Hi there <img align="center" src="https://github.com/talha1230/talha1230/assets/hello.gif" width="35"> ,I'm Talha
 
 - 🔭 I’m currently working on my [React_Native project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/talha1230/Little_Lemon.git)
 - ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/talha1230/Emacs-config)
