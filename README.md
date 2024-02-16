@@ -90,6 +90,19 @@ Version Control
   <img height="137em" src="https://github-profile-trophy.vercel.app/?username=talha1230&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img height="295em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark"/>
 </a>
