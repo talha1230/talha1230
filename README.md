@@ -96,11 +96,11 @@ Version Control
     srcset="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true" />
 </picture>
 
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/talha1230/github-readme-activity-graph">
   <img height="295em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark"/>
 </a>
 
