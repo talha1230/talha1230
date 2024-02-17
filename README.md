@@ -5,7 +5,7 @@
 # Hi there <img align="center" src="assets/hello.gif" width="35"> ,I'm Talha
 
 
-- 🔭 I’m currently working on my [React_Native project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/talha1230/Little_Lemon.git)
+- 🔭 I’m currently working on my [React project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/talha1230/Little_Lemon.git)
 - ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/talha1230/Emacs-config)
 - ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Hobbies : I love Better call saul more then Breaking Bad
