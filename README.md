@@ -2,7 +2,7 @@
   <img src="/assets/talha_banner.png" alt="Banner" style="max-width: 100%; height: auto; width: 552px; height: 263px;"/>
 </p>
 
-# Hi there <img align="center" src="assets/hello.gif" width="35"> ,I'm Talha
+# Hi there <img align="center" src="assets/hello.gif" width="35"> ,I'm Talha👨‍💻🚀
 
 
 - 🔭 I’m currently working on my [React project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/talha1230/Little_Lemon.git)
