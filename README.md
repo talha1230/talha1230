@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently stalking around
-- ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/talha1230/Emacs-config)
+- ✂️ I like to work as team 🙌👨‍💻
 - ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Thoughts : I love Better call saul more then Breaking Bad. 
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
