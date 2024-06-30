@@ -8,7 +8,7 @@
 - 🔭 I’m currently Learning Python 🐍✨
 - ✂️ I like to work as team 🙌👨‍💻
 - ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
-- 🙃 Thoughts : I love Better call saul more then Breaking Bad. 
+- 🙃 Thoughts : I love Better call saul more then Breaking Bad. 🧪🧬
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 ---
 
