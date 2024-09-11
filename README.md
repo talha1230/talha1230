@@ -134,4 +134,6 @@ Version Control
 <a href= "https://stackoverflow.com/users/22827056/talha">
   <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
-
+<a href= "https://stackoverflow.ai/users/5X1KQHH72X8JCPSKJ7WC9264/talha">
+  <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
