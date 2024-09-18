@@ -84,7 +84,8 @@ Version Control
 <br />
 
 <p align="center">
-<a  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha1230&layout=pie)](https://github.com/anuraghazra/github-readme-stats)   </a>
+<a  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha1230&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+</a>
 
 <a href = "https://github.com/ryo-ma/github-profile-trophy">
   <img height="137em" src="https://github-profile-trophy.vercel.app/?username=talha1230&theme=nord&no-frame=true&margin-w=4&row=1"/>
@@ -101,13 +102,9 @@ Version Control
   />
   <img src="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true" />
 </picture>
-
-
 <a href="https://github.com/talha1230/github-readme-activity-graph">
   <img height="295em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark"/>
 </a>
-
-
 
 </p>
 
@@ -115,6 +112,9 @@ Version Control
 </details>
 
  ----
+ # Github Badges
+ 
+ [![Credly Badge](https://github.com/talha1230/talha1230.github.io/blob/main/src/assets/github-foundations.png)](https://www.credly.com/earner/earned/share/a0ebb606-b291-4074-97bb-085ab919753b)
  
 #### If you are looking 👀 to contribute to a project then check out the pinned repositories on my [GithHub profile](https://github.com/talha1230), I always make sure to leave some beginner friendly bugs (code, no-code, low-code) for new-commers to fix ( even [this very readme](https://github.com/talha1230/talha1230/issues) have got some ), issues marked as `good-first-issue` must be the one you should be looking for.
 
