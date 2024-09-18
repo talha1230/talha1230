@@ -114,7 +114,7 @@ Version Control
  ----
  # Github Badges
  
- [![Credly Badge](https://github.com/talha1230/talha1230.github.io/blob/main/src/assets/github-foundations.png)](https://www.credly.com/earner/earned/share/a0ebb606-b291-4074-97bb-085ab919753b)
+ [![Credly Badge](https://github.com/talha1230/talha1230.github.io/blob/main/src/assets/github-foundations.png)](https://www.credly.com/badges/a0ebb606-b291-4074-97bb-085ab919753b/public_url)
  
 #### If you are looking 👀 to contribute to a project then check out the pinned repositories on my [GithHub profile](https://github.com/talha1230), I always make sure to leave some beginner friendly bugs (code, no-code, low-code) for new-commers to fix ( even [this very readme](https://github.com/talha1230/talha1230/issues) have got some ), issues marked as `good-first-issue` must be the one you should be looking for.
 
