@@ -9,7 +9,6 @@
 - ✂️ I like to work as team 🙌👨‍💻
 - ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Thoughts : I love Better call saul more then Breaking Bad. 🧪🧬
-- ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 ---
 
 <details><summary><strong>Skills 🛠:</strong></summary>
