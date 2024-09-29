@@ -79,14 +79,15 @@ Version Control
 
 ---
 
-## Stats 📊
+<details><summary><strong>Click to see my Profile stats 📊</strong></summary>
+<br />
+
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha1230&layout=compact" alt="Top Languages">
+<a  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha1230&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=talha1230&theme=nord&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies">
+<a href = "https://github.com/ryo-ma/github-profile-trophy">
+  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=talha1230&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
 <picture>
@@ -98,23 +99,25 @@ Version Control
     srcset="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=talha1230&show_icons=true" />
 </picture>
 <a href="https://github.com/talha1230/github-readme-activity-graph">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark" alt="GitHub Streak Stats">
+  <img height="295em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha1230&theme=dark"/>
 </a>
+
 </p>
 
-**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.
+**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 </details>
 
----
+ ----
+ # Github Badges
+ 
+ [![Credly Badge](https://github.com/talha1230/talha1230.github.io/blob/main/src/assets/github-foundations.png)](https://www.credly.com/badges/a0ebb606-b291-4074-97bb-085ab919753b/public_url)
+ 
+#### If you are looking 👀 to contribute to a project then check out the pinned repositories on my [GithHub profile](https://github.com/talha1230), I always make sure to leave some beginner friendly bugs (code, no-code, low-code) for new-commers to fix ( even [this very readme](https://github.com/talha1230/talha1230/issues) have got some ), issues marked as `good-first-issue` must be the one you should be looking for.
 
-## GitHub Badges
-
-[![Credly Badge](https://github.com/talha1230/talha1230.github.io/blob/main/src/assets/github-foundations.png)](https://www.credly.com/badges/a0ebb606-b291-4074-97bb-085ab919753b/public_url)
----
-
+ ----
 <a href= "mailto:b09230027@student.unimy.edu.my">
   <img src= "https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
@@ -130,4 +133,3 @@ Version Control
 <a href= "https://stackoverflow.com/users/22827056/talha">
   <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
-
