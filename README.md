@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Learning Python 🐍✨
 - ✂️ I like to work as team 🙌👨‍💻
-- ✉️ Best Medium to contact me is via [outlook](b09230027@student.unimy.edu.my)
+- ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Thoughts : I love Better call saul more then Breaking Bad. 🧪🧬
 ---
 
