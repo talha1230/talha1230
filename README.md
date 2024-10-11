@@ -5,8 +5,7 @@
 # Hi there <img align="center" src="assets/hello.gif" width="35"> ,I'm Talha👨‍💻🚀
 
 
-- 🔭 I’m currently Learning Python 🐍✨
-- ✂️ I like to work as team 🙌👨‍💻
+- 🔭 I’m currently Learning Python & DSA 🐍✨
 - ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Thoughts : I love Better call saul more then Breaking Bad. 🧪🧬
 ---
