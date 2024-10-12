@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently Learning Python & DSA 🐍✨
-- ✉️ Best Medium to contact me is via b09230027@student.unimy.edu.my
 - 🙃 Thoughts : I love Better call saul more then Breaking Bad. 🧪🧬
 ---
 
