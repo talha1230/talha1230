@@ -20,24 +20,15 @@
  [![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
  [![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
  [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
- [![Elisp](https://img.shields.io/badge/Elisp-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://en.wikipedia.org/wiki/Emacs_Lisp)
- [![Swift](https://img.shields.io/badge/Swift-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)](https://developer.apple.com/swift/)
  [![php](https://img.shields.io/badge/php-%23434C5E?style=for-the-badge&logo=php&labelColor=%23777BB4&logoColor=white)](https://www.php.net/)
  
  Frameworks and tools : 
  
  [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
- [![SDL2.0](./assets/badges/sdl_shield.svg)](https://www.libsdl.org) 
- [![emscripten](./assets/badges/emscripten_shield.svg)](https://emscripten.org)
- [![gcc](./assets/badges/gcc_shield.svg)](https://gcc.gnu.org)
- [![llvm](https://img.shields.io/badge/LLVM-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://llvm.org)
- [![doxygen](./assets/badges/doxygen_shield.svg)](https://doxygen.nl)
- [![laravel](https://img.shields.io/badge/Laravel-%23434C5E?style=for-the-badge&logo=Laravel&labelColor=%23FF2D20&logoColor=white)](https://laravel.com/)
  
 Documentation: 
 
 [![markdown](https://img.shields.io/badge/markdown-%23434C5E?style=for-the-badge&logo=Markdown&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
-[![org mode](https://img.shields.io/badge/Org%20mode-%23434C5E?style=for-the-badge&logo=Org&labelColor=%2377AA99&logoColor=white)](https://orgmode.org)
 
 Debugging 
 
@@ -56,20 +47,15 @@ Version Control
 
  Operating System:
  
- [![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
- [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
  [![Windows](https://img.shields.io/badge/Windows-%23434C5E?style=for-the-badge&logo=Windows&labelColor=%230078D6&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
  
  Terminal and Shells: 
  
- [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/ITerm2)
- [![warp](./assets/badges/warp_shield.svg)](https://www.warp.dev/)
  [![zsh](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)
  [![bash](https://img.shields.io/badge/Bash-%23434C5E?style=for-the-badge&logo=GNU%20Bash&labelColor=%234EAA25&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
  
  Text Editor
 
-[![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
 [![Xcode](https://img.shields.io/badge/Xcode-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)](https://en.wikipedia.org/wiki/Xcode)
 [![Sublime](https://img.shields.io/badge/Sublime--Text-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)](https://en.wikipedia.org/wiki/Sublime_Text)
 
