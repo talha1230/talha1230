@@ -22,7 +22,7 @@
  [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
  [![php](https://img.shields.io/badge/php-%23434C5E?style=for-the-badge&logo=php&labelColor=%23777BB4&logoColor=white)](https://www.php.net/)
  
- Frameworks and tools : 
+ Frameworks and tools: 
  
  [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
  
